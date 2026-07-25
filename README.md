@@ -4,7 +4,7 @@
 
 Sou desenvolvedor back-end a 4 anos apaixonado por programação, foco em criar aplicações, sites, sistemas eficientes e escaláveis, atualmente curso o 3 Ano do Ensino Medio, e pretendendo seguir na carreira cursando Engenharia da Computação.
 
-- 📄 Atualmente trabalho com: Node.js, TypeScript, JavaScript, Lua, Luau, Git, GitHub, MySql, Postegre, HTML e CSS.
+- 📄 Atualmente trabalho com: Node.js, TypeScript, JavaScript, Lua, Luau, Git, GitHub, MySql, PostegreSQL, HTML e CSS.
 - 💻 Desenvolvo: Sistemas, Bots, APIs e automações com IA.
 - 📍 Localização: SP, São Paulo, Brasil.
 
@@ -33,7 +33,7 @@ Painel para configuração e gerenciamento de servidores, com sistema de loja e 
 
 Descrição: É uma plataforma completa que permite aos usuários gerenciar seus servidores remotamente, sem a necessidade de acessá-los diretamente. Pelo painel, é possível enviar mensagens aos jogadores, administrar um sistema completo de tickets para suporte e acompanhar dados, valores e indicadores importantes, facilitando decisões administrativas e estratégias de vendas.
 
-**Tecnologias:** Node.js, JavaScript, TypeScript, Postgre, HTML e CSS.
+**Tecnologias:** Node.js, JavaScript, TypeScript, PostgreSQL, HTML e CSS.
 
 **OBS:** Atualmente o repositorio está fechado, já que ainda não está completamente completo, porem já é acessivel na web: [Kodex](https://fivem-codex.discloud.app/)
 
