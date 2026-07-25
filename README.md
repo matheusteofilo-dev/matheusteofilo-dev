@@ -42,6 +42,7 @@ Descrição: É uma plataforma completa que permite aos usuários gerenciar seus
 ## Formação e cursos
 
 - Ensino Medio Completo (2024 - Previsto: 2026)
+- Certificado: Programação e Desenvolvimento WEB (Microlins)
 
 ---
 
