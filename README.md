@@ -10,7 +10,7 @@ Sou desenvolvedor back-end a 4 anos apaixonado por programação, foco em criar 
 
 ## Tecnologias e ferramentas
 
-<div align="left">
+<div align="center">
   <img alt="Nodejs" title="Nodejs" width="45px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   
@@ -27,7 +27,7 @@ Sou desenvolvedor back-end a 4 anos apaixonado por programação, foco em criar 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
   <img alt="GitHub" title="GitHub" width="45px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/hub-original.svg">
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 
   <img alt="MySQL" title="MySQL" width="45px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
