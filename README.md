@@ -30,9 +30,11 @@ Sou desenvolvedor back-end a 4 anos apaixonado por programação, foco em criar 
 ### Painel Kodex Hub.
 
 Painel para configuração e gerenciamento de servidores, com sistema de loja e integrado com o MercadoPago.
+
 Descrição: É uma plataforma completa que permite aos usuários gerenciar seus servidores remotamente, sem a necessidade de acessá-los diretamente. Pelo painel, é possível enviar mensagens aos jogadores, administrar um sistema completo de tickets para suporte e acompanhar dados, valores e indicadores importantes, facilitando decisões administrativas e estratégias de vendas.
 
-**Tecnologias:** Node.js, JavaScript, TypeScript, Postgre, HTML e CSS, 
+**Tecnologias:** Node.js, JavaScript, TypeScript, Postgre, HTML e CSS.
+
 **OBS:** Atualmente o repositorio está fechado, já que ainda não está completamente completo, porem já é acessivel na web: [Kodex](https://fivem-codex.discloud.app/)
 
 🔗 [Ver projeto](https://github.com/matheusteofilo-dev/codex-fivem)
