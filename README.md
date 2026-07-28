@@ -35,7 +35,7 @@ Descrição: É uma plataforma completa que permite aos usuários gerenciar seus
 
 **Tecnologias:** Node.js, JavaScript, TypeScript, PostgreSQL, HTML e CSS.
 
-**OBS:** Atualmente o repositorio está fechado, já que ainda não está completamente completo, porem já é acessivel na web: [Kodex](https://fivem-codex.discloud.app/)
+**OBS:** O projeto é um repositório privado (porem no link abaixo você terá a explicação + imagens de como ele funciona internamente) pois é um serviço publico de planos porem é acessível em: [Kodex Hub](https://kodex-hub.discloud.app/)
 
 🔗 [Ver projeto](https://github.com/matheusteofilo-dev/codex-fivem)
 
