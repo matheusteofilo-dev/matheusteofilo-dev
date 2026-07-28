@@ -10,12 +10,14 @@ Sou desenvolvedor back-end a 4 anos apaixonado por programação, foco em criar 
 
 ---
 
-
-
 ## STATUS
+
 <div align="center">
   <img alt="Status" title="Status" src="https://github-stats-extended.vercel.app/api?username=matheusteofilo-dev">
 </div>
+
+---
+
 ## Tecnologias e ferramentas
 
 <div align="center">
