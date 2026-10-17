@@ -44,7 +44,7 @@ Painel para configuração e gerenciamento de servidores, com sistema de loja e 
 
 Descrição: É uma plataforma completa que permite aos usuários gerenciar seus servidores remotamente, sem a necessidade de acessá-los diretamente. Pelo painel, é possível enviar mensagens aos jogadores, administrar um sistema completo de tickets para suporte e acompanhar dados, valores e indicadores importantes, facilitando decisões administrativas e estratégias de vendas.
 
-**Tecnologias:** Node.js, JavaScript, TypeScript, PostgreSQL, HTML e CSS.
+**Tecnologias:** Node.js, Nexy.js, JavaScript, TypeScript, PostgreSQL, HTML e CSS.
 
 **OBS:** O projeto é um repositório privado (porem no link abaixo você terá a explicação + imagens de como ele funciona internamente) pois é um serviço publico de planos porem é acessível em: [Kodex Hub](https://kodexhub.com.br)
 
